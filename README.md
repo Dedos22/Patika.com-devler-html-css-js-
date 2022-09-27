@@ -1,2 +1,3 @@
 # Patika.com-task-html-css-js-
-#image.JPG
+![alt text](image.JPG)
+
