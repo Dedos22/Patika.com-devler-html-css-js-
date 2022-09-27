@@ -1,1 +1,2 @@
-# Patika.com-devler-html-css-js-
+# Patika.com-task-html-css-js-
+#image.JPG
